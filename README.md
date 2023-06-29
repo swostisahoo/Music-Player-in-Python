@@ -11,10 +11,4 @@
 - **Install dependencies using pip `pip install -r requirements.txt`**
 - **Run Rainy.py**
 
-## Is it open-source?
-- **Licensed Under [GPL-3.0](https://github.com/NotCookey/Rainy/blob/main/LICENSE)**
 
-## Thank you
-> **Thank you for visiting, Hope you found something useful!**
-
-> **Developed and Maintained By [NotCookey](https://github.com/NotCookey)**
